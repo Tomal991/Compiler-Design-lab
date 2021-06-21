@@ -5,5 +5,5 @@ Compiler design lab's source code is provided here. Code contains -
 3.White Space removal
 4.Line+Block comment removal
 5.Regular Expressions
-6.white space+line+block comment
+6.white space+line+block comment removal
 
